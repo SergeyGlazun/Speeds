@@ -1,0 +1,76 @@
+1 kmh
+
+1 mph
+
+1 kn
+
+2 kmh
+
+3 kmh
+
+2 mph
+
+1 m/s
+
+2 kn
+
+3 mph
+
+3 kn
+
+2 m/s
+
+3 m/s
+
+
+
+1 kmh
+
+2 kmh
+
+3 kmh
+
+1 mph
+
+2 mph
+
+3 mph
+
+1 kn
+
+2 kn
+
+3 kn
+
+1 m/s
+
+2 m/s
+
+3 m/s
+
+
+
+1 m/s=1 m/s 
+
+1 kmh=0,278 m/s 
+
+1 mph=0,447 m/s 
+
+1 kn=0,514 m/s 
+
+2 m/s=2 m/s 
+
+2 kmh=0,556 m/s 
+
+2 mph=0,894 m/s 
+
+2 kn=1,029 m/s 
+
+3 m/s=3 m/s 
+
+3 kmh=0,833 m/s 
+
+3 mph=1,341 m/s 
+
+3 kn=1,543 m/s 
+
