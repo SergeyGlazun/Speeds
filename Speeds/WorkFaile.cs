@@ -24,9 +24,9 @@ namespace Speeds
             }
         }
 
-        public static void WriteFaile(string text)
+        public static void WriteFaile(string text,string fileName)
         {
-            using (FileStream fstream = new FileStream("output.txt", FileMode.OpenOrCreate))
+            using (FileStream fstream = new FileStream(fileName, FileMode.OpenOrCreate))
             {
               
                 byte[] array = Encoding.Default.GetBytes(text);
